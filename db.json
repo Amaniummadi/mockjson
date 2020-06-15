@@ -1,0 +1,16 @@
+{
+"posts":[
+{"id":1,"title":"shdfjsfvj"},
+{"id":2,"title":"shdfjsfvj dffg"},
+{"id":3,"title":"shdfjsfv dbdgbj"}
+],
+"comments":[
+{"id":1,"body":"bdvsdhjfbvd ddd"},
+{"id":2,"body":"bdvsdhjfbvd sdbfsfbd "},
+{"id":3,"body":"bdvsdhjfbvd sdfbn "}
+],
+"profile":{
+"name":"profile 1"
+}
+
+}
